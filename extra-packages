@@ -1,26 +1,30 @@
 atuin
 bat
+brew
 btop
 chezmoi
 cosign
-dbus-x11
 delta
 direnv
 eza
-ffmpeg
+fd
 fzf
+gawk
 gh
 just
 lazygit
+less
 make
 ncurses
 neovim
-python3
+rclone
 ripgrep
-speedtest-go
+sed
 starship
+uutils
 zellij
 zoxide
+zsh
 zstd
 
 # 1Password dependencies
