@@ -4,7 +4,7 @@ command_not_found_handle() {
   if [ ! -e /run/.containerenv ] && [ ! -e /.dockerenv ]; then
     exit 127
   fi
-  
+
   distrobox-host-exec "${@}"
 }
 if [ -n "${ZSH_VERSION-}" ]; then

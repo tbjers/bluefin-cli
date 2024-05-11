@@ -24,4 +24,4 @@ alias xzfgrep='rg -z -F' 2>/dev/null
 alias cd='cd' 2>/dev/null
 
 # Fd for find
-alias find='fd' 2>/dev/null 
+alias find='fd' 2>/dev/null
