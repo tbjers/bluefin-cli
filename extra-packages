@@ -8,15 +8,10 @@ delta
 direnv
 eza
 fd
+fish
 fzf
 gawk
-gh
-just
-lazygit
 less
-make
-ncurses
-neovim
 rclone
 ripgrep
 sed
@@ -25,7 +20,6 @@ uutils
 zellij
 zoxide
 zsh
-zstd
 
 # 1Password dependencies
 libinput-udev
