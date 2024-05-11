@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/tbjers/bluefin-cli/compare/v1.2.0...v1.2.1) (2024-05-11)
+
+
+### Bug Fixes
+
+* remove root ([3fc5854](https://github.com/tbjers/bluefin-cli/commit/3fc585444367fb20b842fd034c54a49234acdb47))
+
 ## [1.2.0](https://github.com/tbjers/bluefin-cli/compare/v1.1.0...v1.2.0) (2024-05-11)
 
 
