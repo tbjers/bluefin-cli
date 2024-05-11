@@ -5,15 +5,13 @@ LABEL com.github.containers.toolbox="true" \
       summary="A cloud-native terminal experience" \
       maintainer="torgny@bjers.org"
 
-COPY files /
+COPY ./extra-packages /
+COPY ./files /
 
-COPY extra-packages /
-
-# Update image, install packages, and move /home/linuxbrew
+# Update image, Install Packages, and move /home/linuxbrew
 RUN apk update && \
     apk upgrade && \
     grep -v '^#' /extra-packages | xargs apk add && \
-    mv /home/linuxbrew /home/homebrew && \
     rm /extra-packages
 
 # Use and configure bash, retreive bash-prexec
