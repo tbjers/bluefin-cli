@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/tbjers/bluefin-cli/compare/v1.1.0...v1.2.0) (2024-05-11)
+
+
+### Features
+
+* add bluefin-cli experience ([781ef21](https://github.com/tbjers/bluefin-cli/commit/781ef21b7b1deb0a653a41acfd369aaf13998266))
+
+
+### Bug Fixes
+
+* avoid linuxbrew/homebrew rename ([f916e66](https://github.com/tbjers/bluefin-cli/commit/f916e6670a66df42827c3b3827b0221c7a061982))
+
 ## [1.1.0](https://github.com/tbjers/bluefin-cli/compare/v1.0.0...v1.1.0) (2024-05-11)
 
 
