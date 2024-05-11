@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/tbjers/bluefin-cli/compare/v1.0.0...v1.1.0) (2024-05-11)
+
+
+### Features
+
+* match upstream bluefin-cli packages ([0fa86f3](https://github.com/tbjers/bluefin-cli/commit/0fa86f36ca428b2ece8f97a24bb16005599a0e23))
+
 ## 1.0.0 (2024-05-11)
 
 ### Features
