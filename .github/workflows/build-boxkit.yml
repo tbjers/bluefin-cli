@@ -11,6 +11,10 @@ name: build-boxkit
       - main
     paths-ignore:
       - "**/README.md"
+      - ".yaml*"
+      - ".editorconfig"
+      - ".markdown*"
+      - ".prettierrc"
   workflow_dispatch:
 env:
   IMAGE_NAME: bluefin-cli
