@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.0](https://github.com/tbjers/bluefin-cli/compare/v1.2.1...v1.3.0) (2024-05-13)
+
+
+### Features
+
+* remove files directory ([d76b160](https://github.com/tbjers/bluefin-cli/commit/d76b16072f3da1cf016c7c8f258a254d61807ae1))
+* switch to latest bluefin-cli tag ([5706084](https://github.com/tbjers/bluefin-cli/commit/570608489f8df6f49e39b6c3566efefbe6c96527))
+
 ## [1.2.1](https://github.com/tbjers/bluefin-cli/compare/v1.2.0...v1.2.1) (2024-05-11)
 
 
