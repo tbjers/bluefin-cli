@@ -1,9 +1,12 @@
+alsa-lib
 atuin
 bat
 brew
 btop
+cairo-dev
 chezmoi
 cosign
+cups-dev
 delta
 direnv
 eza
@@ -11,27 +14,12 @@ fd
 fish
 fzf
 gawk
-less
-rclone
-ripgrep
-sed
-starship
-uutils
-zellij
-zoxide
-zsh
-
-# 1Password dependencies
-libinput-udev
 icu-dev
-
-# Playwright dependencies
-alsa-lib
-cairo-dev
-cups-dev
+less
 libatk-1.0
 libatk-bridge-2.0
 libdrm-dev
+libinput-udev
 libnspr
 libnss-dev
 libxcomposite-dev
@@ -40,3 +28,11 @@ libxkbcommon-dev
 libxrandr-dev
 mesa-gbm
 pango-dev
+rclone
+ripgrep
+sed
+starship
+uutils
+zellij
+zoxide
+zsh
